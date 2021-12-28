@@ -7,5 +7,5 @@ assignment.
 **Date: 12.29/2021**
 
 ## Overview
-This webpage shows 3 sections of a fictional craft store items. Basic
+This webpage shows 3 sections of a fictional craft store's items. Basic
 CSS/HTML practice in developing a webpage from a spec sheet. 
